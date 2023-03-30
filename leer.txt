@@ -1,0 +1,1 @@
+Se  necesita que los archivos de imagenes esten almacenadas dentro de una carpeta llamadas imagenes
